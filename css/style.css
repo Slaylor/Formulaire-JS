@@ -1,0 +1,8 @@
+
+/* Visuel de mes erreurs formulaire */
+.errors {
+    display: none;
+    font-size: 0.85rem;
+    color: red;
+    margin-top: 2px;
+}
